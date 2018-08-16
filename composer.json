@@ -1,0 +1,21 @@
+{
+    "name": "dk-it/yii2-lockable-model",
+    "description": "behavior yii2-lockable-model",
+    "type": "yii2-behavior",
+    "keywords": ["yii2","behavior","extension"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "akavov",
+            "email": "vlvladimirvl@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "dkit\\lockable\\": ""
+        }
+    }
+}
